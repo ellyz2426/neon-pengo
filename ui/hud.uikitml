@@ -1,0 +1,12 @@
+<panel>
+<div name="hud-root" flex-direction="column" gap="4" padding="8">
+<div flex-direction="row" justify-content="space-between" gap="16">
+<div name="score" font-size="14" color="#00ffff">Score: 0</div>
+<div name="wave" font-size="14" color="#00ffff">Wave: 1</div>
+<div name="lives" font-size="14" color="#00ffff">Lives: 3</div>
+</div>
+<div name="timer" font-size="12" color="#ffcc00"></div>
+<div name="combo" font-size="16" font-weight="bold" color="#ff4444"></div>
+<div name="achievement" font-size="11" color="#ffdd00"></div>
+</div>
+</panel>

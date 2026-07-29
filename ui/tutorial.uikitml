@@ -1,0 +1,13 @@
+<panel>
+<div name="tutorial-root" flex-direction="column" align-items="center" gap="6" padding="12">
+<div font-size="20" font-weight="bold" color="#00ffff">HOW TO PLAY</div>
+<div font-size="11" color="#0088aa">Move with Arrow Keys / WASD / VR Thumbstick</div>
+<div font-size="11" color="#0088aa">Walk into blocks to push them</div>
+<div font-size="11" color="#0088aa">Sliding blocks crush Sno-Bee enemies</div>
+<div font-size="11" color="#0088aa">Push against walls to stun nearby enemies</div>
+<div font-size="11" color="#0088aa">Align 3 diamond blocks for 1000 bonus</div>
+<div font-size="11" color="#0088aa">Clear all enemies to advance waves</div>
+<div font-size="11" color="#ffcc00">Pause: Esc / P / VR B Button</div>
+<div name="btn-tutorial-back" font-size="12" color="#888888" padding="6" cursor="pointer">Back</div>
+</div>
+</panel>

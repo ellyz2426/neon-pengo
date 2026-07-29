@@ -1,0 +1,14 @@
+<panel>
+<div name="stats-root" flex-direction="column" align-items="center" gap="6" padding="16">
+<div font-size="20" font-weight="bold" color="#00ffff">CAREER STATS</div>
+<div name="stat-games" font-size="12" color="#0088aa">Games: 0</div>
+<div name="stat-crushes" font-size="12" color="#0088aa">Crushes: 0</div>
+<div name="stat-pushes" font-size="12" color="#0088aa">Pushes: 0</div>
+<div name="stat-waves" font-size="12" color="#0088aa">Waves: 0</div>
+<div name="stat-stuns" font-size="12" color="#0088aa">Stuns: 0</div>
+<div name="stat-diamonds" font-size="12" color="#0088aa">Diamond aligns: 0</div>
+<div name="stat-best-wave" font-size="12" color="#ffcc00">Best wave: 0</div>
+<div name="stat-best-score" font-size="12" color="#ffcc00">Best score: 0</div>
+<div name="btn-stats-back" font-size="12" color="#888888" padding="6" cursor="pointer">Back</div>
+</div>
+</panel>

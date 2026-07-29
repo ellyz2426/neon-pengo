@@ -1,0 +1,11 @@
+<panel>
+<div name="results-root" flex-direction="column" align-items="center" gap="8" padding="16">
+<div font-size="24" font-weight="bold" color="#00ffff">GAME OVER</div>
+<div name="new-best" font-size="16" font-weight="bold" color="#ffdd00"></div>
+<div name="final-score" font-size="18" color="#00ffff">Score: 0</div>
+<div name="final-wave" font-size="14" color="#0088aa">Wave: 1</div>
+<div name="final-crushes" font-size="14" color="#0088aa">Crushes: 0</div>
+<div name="btn-retry" font-size="16" color="#00ffff" background-color="#002233" padding="8" border-radius="4" cursor="pointer">Play Again</div>
+<div name="btn-menu" font-size="14" color="#888888" padding="6" cursor="pointer">Main Menu</div>
+</div>
+</panel>

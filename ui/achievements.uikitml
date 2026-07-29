@@ -1,0 +1,19 @@
+<panel>
+<div name="ach-root" flex-direction="column" align-items="center" gap="6" padding="12">
+<div font-size="20" font-weight="bold" color="#00ffff">ACHIEVEMENTS</div>
+<div name="ach-count" font-size="11" color="#888888">0/25 unlocked</div>
+<div flex-direction="column" gap="4" width="280">
+<div flex-direction="column" gap="2"><div name="ach-name-0" font-size="12" color="#00ffff">---</div><div name="ach-desc-0" font-size="9" color="#666666">---</div></div>
+<div flex-direction="column" gap="2"><div name="ach-name-1" font-size="12" color="#00ffff">---</div><div name="ach-desc-1" font-size="9" color="#666666">---</div></div>
+<div flex-direction="column" gap="2"><div name="ach-name-2" font-size="12" color="#00ffff">---</div><div name="ach-desc-2" font-size="9" color="#666666">---</div></div>
+<div flex-direction="column" gap="2"><div name="ach-name-3" font-size="12" color="#00ffff">---</div><div name="ach-desc-3" font-size="9" color="#666666">---</div></div>
+<div flex-direction="column" gap="2"><div name="ach-name-4" font-size="12" color="#00ffff">---</div><div name="ach-desc-4" font-size="9" color="#666666">---</div></div>
+</div>
+<div name="ach-page" font-size="10" color="#666666">Page 1/5</div>
+<div flex-direction="row" gap="8">
+<div name="btn-ach-prev" font-size="11" color="#00ffff" padding="4" cursor="pointer">Prev</div>
+<div name="btn-ach-next" font-size="11" color="#00ffff" padding="4" cursor="pointer">Next</div>
+</div>
+<div name="btn-ach-back" font-size="12" color="#888888" padding="4" cursor="pointer">Back</div>
+</div>
+</panel>

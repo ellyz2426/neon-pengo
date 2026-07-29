@@ -1,0 +1,19 @@
+<panel>
+<div name="settings-root" flex-direction="column" align-items="center" gap="8" padding="16">
+<div font-size="20" font-weight="bold" color="#00ffff">SETTINGS</div>
+<div name="color-label" font-size="12" color="#888888">Color: CYAN</div>
+<div flex-direction="row" gap="6">
+<div name="btn-cyan" font-size="11" color="#00ffff" background-color="#002233" padding="4" border-radius="4" cursor="pointer">Cyan</div>
+<div name="btn-green" font-size="11" color="#00ff88" background-color="#001108" padding="4" border-radius="4" cursor="pointer">Green</div>
+<div name="btn-magenta" font-size="11" color="#ff44ff" background-color="#110011" padding="4" border-radius="4" cursor="pointer">Magenta</div>
+<div name="btn-gold" font-size="11" color="#ffcc00" background-color="#111100" padding="4" border-radius="4" cursor="pointer">Gold</div>
+</div>
+<div name="diff-label" font-size="12" color="#888888">Difficulty: NORMAL</div>
+<div flex-direction="row" gap="6">
+<div name="btn-normal" font-size="11" color="#00ffff" background-color="#002233" padding="4" border-radius="4" cursor="pointer">Normal</div>
+<div name="btn-hard" font-size="11" color="#ffcc00" background-color="#222200" padding="4" border-radius="4" cursor="pointer">Hard</div>
+<div name="btn-insane" font-size="11" color="#ff4444" background-color="#220000" padding="4" border-radius="4" cursor="pointer">Insane</div>
+</div>
+<div name="btn-settings-back" font-size="12" color="#888888" padding="6" cursor="pointer">Back</div>
+</div>
+</panel>

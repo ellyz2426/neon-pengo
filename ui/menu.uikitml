@@ -1,0 +1,19 @@
+<panel>
+<div name="menu-root" flex-direction="column" align-items="center" gap="8" padding="16">
+<div name="title" font-size="28" font-weight="bold" color="#00ffff">NEON PENGO VR</div>
+<div name="subtitle" font-size="12" color="#0088aa">Push blocks. Crush enemies.</div>
+<div name="high-score" font-size="11" color="#888888">Best: 0</div>
+<div name="btn-arcade" font-size="14" color="#00ffff" background-color="#002233" padding="6" border-radius="4" hover-background-color="#003344" cursor="pointer">Arcade Mode</div>
+<div name="btn-speed" font-size="14" color="#00ffff" background-color="#002233" padding="6" border-radius="4" hover-background-color="#003344" cursor="pointer">Speed Mode (120s)</div>
+<div name="btn-zen" font-size="14" color="#00ffff" background-color="#002233" padding="6" border-radius="4" hover-background-color="#003344" cursor="pointer">Zen Mode</div>
+<div name="btn-challenge" font-size="14" color="#00ffff" background-color="#002233" padding="6" border-radius="4" hover-background-color="#003344" cursor="pointer">Challenge Mode</div>
+<div flex-direction="row" gap="8">
+<div name="btn-settings" font-size="11" color="#888888" padding="4" cursor="pointer">Settings</div>
+<div name="btn-achievements" font-size="11" color="#888888" padding="4" cursor="pointer">Achievements</div>
+</div>
+<div flex-direction="row" gap="8">
+<div name="btn-stats" font-size="11" color="#888888" padding="4" cursor="pointer">Stats</div>
+<div name="btn-tutorial" font-size="11" color="#888888" padding="4" cursor="pointer">How to Play</div>
+</div>
+</div>
+</panel>
