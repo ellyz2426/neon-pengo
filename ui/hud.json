@@ -1,0 +1,201 @@
+{
+  "element": {
+    "sourceTag": "panel",
+    "type": "custom",
+    "children": [
+      {
+        "type": "container",
+        "sourceTag": "div",
+        "children": [
+          {
+            "type": "container",
+            "sourceTag": "div",
+            "children": [
+              {
+                "type": "container",
+                "sourceTag": "div",
+                "children": [
+                  "Score: 0"
+                ],
+                "properties": {
+                  "name": "score",
+                  "fontSize": "14",
+                  "color": "#00ffff"
+                },
+                "dataUid": "uid-4"
+              },
+              {
+                "type": "container",
+                "sourceTag": "div",
+                "children": [
+                  "Wave: 1"
+                ],
+                "properties": {
+                  "name": "wave",
+                  "fontSize": "14",
+                  "color": "#00ffff"
+                },
+                "dataUid": "uid-5"
+              },
+              {
+                "type": "container",
+                "sourceTag": "div",
+                "children": [
+                  "Lives: 3"
+                ],
+                "properties": {
+                  "name": "lives",
+                  "fontSize": "14",
+                  "color": "#00ffff"
+                },
+                "dataUid": "uid-6"
+              }
+            ],
+            "properties": {
+              "flexDirection": "row",
+              "justifyContent": "space-between",
+              "gap": "16"
+            },
+            "dataUid": "uid-3"
+          },
+          {
+            "type": "container",
+            "sourceTag": "div",
+            "children": [],
+            "properties": {
+              "name": "timer",
+              "fontSize": "12",
+              "color": "#ffcc00"
+            },
+            "dataUid": "uid-7"
+          },
+          {
+            "type": "container",
+            "sourceTag": "div",
+            "children": [],
+            "properties": {
+              "name": "combo",
+              "fontSize": "16",
+              "fontWeight": "bold",
+              "color": "#ff4444"
+            },
+            "dataUid": "uid-8"
+          },
+          {
+            "type": "container",
+            "sourceTag": "div",
+            "children": [],
+            "properties": {
+              "name": "achievement",
+              "fontSize": "11",
+              "color": "#ffdd00"
+            },
+            "dataUid": "uid-9"
+          }
+        ],
+        "properties": {
+          "name": "hud-root",
+          "flexDirection": "column",
+          "gap": "4",
+          "padding": "8"
+        },
+        "dataUid": "uid-2"
+      }
+    ],
+    "properties": {},
+    "dataUid": "uid-1"
+  },
+  "classes": {},
+  "ranges": {
+    "uid-1": {
+      "start": {
+        "line": 0,
+        "column": 0
+      },
+      "end": {
+        "line": 11,
+        "column": 8
+      }
+    },
+    "uid-2": {
+      "start": {
+        "line": 1,
+        "column": 0
+      },
+      "end": {
+        "line": 10,
+        "column": 6
+      }
+    },
+    "uid-3": {
+      "start": {
+        "line": 2,
+        "column": 0
+      },
+      "end": {
+        "line": 6,
+        "column": 6
+      }
+    },
+    "uid-4": {
+      "start": {
+        "line": 3,
+        "column": 0
+      },
+      "end": {
+        "line": 3,
+        "column": 63
+      }
+    },
+    "uid-5": {
+      "start": {
+        "line": 4,
+        "column": 0
+      },
+      "end": {
+        "line": 4,
+        "column": 61
+      }
+    },
+    "uid-6": {
+      "start": {
+        "line": 5,
+        "column": 0
+      },
+      "end": {
+        "line": 5,
+        "column": 63
+      }
+    },
+    "uid-7": {
+      "start": {
+        "line": 7,
+        "column": 0
+      },
+      "end": {
+        "line": 7,
+        "column": 55
+      }
+    },
+    "uid-8": {
+      "start": {
+        "line": 8,
+        "column": 0
+      },
+      "end": {
+        "line": 8,
+        "column": 74
+      }
+    },
+    "uid-9": {
+      "start": {
+        "line": 9,
+        "column": 0
+      },
+      "end": {
+        "line": 9,
+        "column": 61
+      }
+    }
+  }
+}
